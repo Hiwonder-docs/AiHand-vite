@@ -1,6 +1,6 @@
-# AiArm Documentation
+# AiHand Documentation
 
-This repository contains the AiArm VitePress documentation site. The
+This repository contains the AiHand VitePress documentation site. The
 documentation source files are Markdown files under `docs/docs/`.
 
 ## Local development
@@ -19,7 +19,7 @@ npm run docs:build
 npm run docs:stage-main
 ```
 
-The staged production files are generated in `projects/AiArm/en/latest/`.
+The staged production files are generated in `projects/AiHand/en/latest/`.
 
 ## GitHub Pages deployment
 
@@ -30,11 +30,11 @@ The build artifacts under `projects/` are committed to the repository. Open
 The GitHub Pages direct URL is:
 
 ```text
-https://hiwonder-docs.github.io/AiArm-vite/projects/AiArm/en/latest/
+https://hiwonder-docs.github.io/AiHand-vite/projects/AiHand/en/latest/
 ```
 
 The public-facing URL (via the baota Nginx reverse proxy) is:
 
 ```text
-https://wiki-test.hiwonder.com/projects/AiArm/en/latest/
+https://wiki-test.hiwonder.com/projects/AiHand/en/latest/
 ```
